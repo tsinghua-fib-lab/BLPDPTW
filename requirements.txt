@@ -1,0 +1,9 @@
+HEBO==0.3.2
+igraph==0.9.11
+matplotlib==3.5.1
+numpy==1.23.3
+perlin_numpy==0.0.0
+rbfopt==4.2.4
+recordclass==0.17.2
+torch==1.11.0
+tqdm==4.64.1
